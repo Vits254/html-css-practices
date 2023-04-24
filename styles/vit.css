@@ -1,0 +1,21 @@
+.card22 {
+    display: flex;
+    height: 90vh;
+    width: 60vw;
+}
+.card22 img{
+    height: 70vh;
+    width: 40vw;
+}
+.card23 {
+    height: 66vh;
+    width: 40vw;
+    background-color: white;
+    padding-left: 2rem;
+    padding-top: 1.5rem;
+}
+.card23 button {
+    margin-bottom: 10rem;
+    color: white;
+    background-color: rgb(4, 15, 4);
+}
